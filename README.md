@@ -8,15 +8,25 @@ El sistema cuenta con autenticación JWT, manejo de roles y rutas protegidas, y 
 ## 🚀 Características Principales
 
 ✅ Registro e inicio de sesión de usuarios
+
 ✅ Autenticación segura mediante JWT (Access Token)
+
 ✅ Protección de rutas por token
+
 ✅ Sistema de roles y permisos
+
 ✅ Roles disponibles: ADMIN, USER, ARTIST
+
 ✅ Creación de colecciones de arte
+
 ✅ Asociación de imágenes mediante URLs
+
 ✅ Visualización pública de colecciones de otros usuarios
+
 ✅ CRUD completo de entidades principales
+
 ✅ Arquitectura REST
+
 ✅ Preparado para integración con frontend
 
 ### 🛠️ Tecnologías Utilizadas
