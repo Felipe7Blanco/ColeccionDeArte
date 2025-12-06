@@ -99,7 +99,7 @@ El backend valida permisos según el rol
 
 ### ⚙️ Instalación y Configuración
 1️⃣ Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/Felipe7Blanco/ColeccionDeArte.git
 2️⃣ Configurar la base de datos (PostgreSQL)
 
 Archivo:
